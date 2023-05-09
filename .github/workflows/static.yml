@@ -2,7 +2,7 @@
 name: Deploy static content to Pages
 
 on:
-  # Runs on pushes targeting the default branchh
+  # Runs on pushes targeting the defaultr branchh
   push:
     branches: ["main"]
 jobs:
